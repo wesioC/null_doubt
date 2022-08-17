@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8T14v5E3eLEnn7uZl297l26DYPWiif4IKivm8OLKJswJFxFl4ezF7W/4Hv76iCHWv4YikjXH/1PBhzJSTBV2g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Gustavo\\Documents\\GitHub\\GitHub_saves\\NULL_DOUBT\\MVC\\Modelo\\database_sql\\null_doubt\\null_doubt.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\bin\Debug\null_doubt.dacpac
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\bin\Debug\null_doubt.dll
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\bin\Debug\null_doubt.pdb
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\obj\Debug\null_doubt.sqlprojAssemblyReference.cache
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\obj\Debug\Model.xml
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\obj\Debug\refactor.xml
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\obj\Debug\postdeploy.sql
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\obj\Debug\predeploy.sql
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\obj\Debug\null_doubt.dll
+c:\Users\Gustavo\Documents\GitHub\GitHub_saves\NULL_DOUBT\MVC\Modelo\database_sql\null_doubt\obj\Debug\null_doubt.pdb
